@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Md Junayed (Mj)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h1 align="center">Hi 👋, I'm Md Junayed (Mj)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 - 🔭 I’m currently working on **AI**
 
 - 🌱 I’m currently learning **dgango**
