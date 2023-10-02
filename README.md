@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 😄 Pronouns: ... Web developer.
 ###⚡ Fun fact: ...
 -->
-#cording 
-## Data analysis.
-## Web developer.
-## python expert🔥🔥🔥
+##cording 
+# Data analysis.
+# Web developer.
+# python expert🔥🔥🔥
